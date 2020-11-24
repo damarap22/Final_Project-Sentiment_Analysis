@@ -1,0 +1,31 @@
+score,topicTitle,reviews
+Negative,Action Control,156
+Negative,Bug and Account Issue,390
+Negative,Character and Gacha Rates,642
+Negative,Controller Support,558
+Negative,Game Feature,140
+Negative,Game Mechanic,191
+Negative,Lagging and Crashing,906
+Negative,Misc,152
+Negative,Resin/Stamina System,761
+Negative,Update,651
+Neutral,Action Control,142
+Neutral,Bug and Account Issue,209
+Neutral,Character and Gacha Rates,279
+Neutral,Controller Support,616
+Neutral,Game Feature,103
+Neutral,Game Mechanic,147
+Neutral,Lagging and Crashing,622
+Neutral,Misc,112
+Neutral,Resin/Stamina System,276
+Neutral,Update,235
+Positive,Action Control,295
+Positive,Bug and Account Issue,317
+Positive,Character and Gacha Rates,783
+Positive,Controller Support,1134
+Positive,Game Feature,803
+Positive,Game Mechanic,1367
+Positive,Lagging and Crashing,686
+Positive,Misc,292
+Positive,Resin/Stamina System,455
+Positive,Update,256

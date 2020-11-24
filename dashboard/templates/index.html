@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Predict{% endblock %}
+{% block content %}
+<div class="container formstyle">
+    <div class="row justify-content-lg-center justify-content-md-center">
+        <div class="col-lg-10 col-md-10 col-sm-12">
+            <center><h1 class="main-title"> Reviews Sentiment Analysis</h1></center>
+            <form action="/" method="POST">
+                <div class="form-group searchable">
+                    <input type="text" class="form-control input-tweet" id="rev" name="rev" placeholder="input your text here...">
+                </div>
+                <div class="mt-4 text-center">
+                    <button type="submit" class="btn btn-primary btn-sm-custom" name="submit" value="predict" title="predict">Predict</button>
+                    <a href="/" type="button" class="btn btn-warning btn-sm-custom"><i class="fa fa-refresh"></i> Reset</a>
+                    {% if result != None %}
+                    <div class="container result">
+                        {% if result != 'Positive' and result != 'Negative' and result != 'Neutral'%}
+                        <p class="mt-4 text-center"><strong>{{result}}</strong></p>
+                        {% else %}
+                        <p class="mt-4 text-center"><strong><em>"{{contex}}"</em><br>This tweet has {% if result == 'Positive' %}
+                                                                        <a style="color: green;">{{result}}</a>
+                                                                        {% elif result == 'Neutral' %}
+                                                                        <a style="color:blue;">{{result}}</a>
+                                                                        {% elif result == 'Negative' %}
+                                                                        <a style="color: red;">{{result}}</a>
+                                                                        {% endif %} sentiment</strong></p>
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
