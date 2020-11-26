@@ -25,6 +25,6 @@ There are a lot of aspects that may have contributed to the game’s success, an
   <img width="50" height="50" border="0" src="https://image.flaticon.com/icons/png/512/61/61109.png" align=”baseline”/>
 </a>
 
-<a href="mailto:damarachmadp@gmail.com/" target="_blank">
+<a href="mailto:damarachmadp@gmail.com" target="_blank">
   <img width="50" height="50" border="0" src="https://www.flaticon.com/svg/static/icons/svg/270/270021.svg" align=”baseline”/>
 </a>
