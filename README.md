@@ -2,7 +2,7 @@
 
 ## Background
 
-There are a lot of aspects that may have contributed to the game’s success, and reviews can be a contributing factor. Game Reviews could play a huge factor in Word-Of-Mouth and affect game purchases. Game Quality is imperative to game review. In order to get Positive Review, developer must improve their Game Quality. But scanning through every Reviews to get insight is time consuming and getting reviews only from small group of players (e.g. veteran player) doesn’t represent the “voice” of majority.
+There are a lot of aspects that may have contributed to the game’s success, and reviews can be a contributing factor. Game Reviews could play a huge factor in Word-Of-Mouth and affect game purchases. Game Quality is imperative to game review. In order to get Positive Review, developer must improve their Game Quality. However, scanning through every Reviews to get insight is time consuming and getting reviews only from small group of players (e.g. veteran player) doesn’t represent the “voice” of majority.
 
 ## Workflow
 
